@@ -117,4 +117,679 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Cooper Black, 16pt</value>
+  </data>
+  <data name="label1.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 9</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>428, 100</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>The Stationery Shop</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="pencilLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="pencilLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 12pt</value>
+  </data>
+  <data name="pencilLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>63, 128</value>
+  </data>
+  <data name="pencilLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 30</value>
+  </data>
+  <data name="pencilLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="pencilLabel.Text" xml:space="preserve">
+    <value>Pencil</value>
+  </data>
+  <data name="&gt;&gt;pencilLabel.Name" xml:space="preserve">
+    <value>pencilLabel</value>
+  </data>
+  <data name="&gt;&gt;pencilLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pencilLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pencilLabel.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="staplerLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="staplerLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 12pt</value>
+  </data>
+  <data name="staplerLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>63, 189</value>
+  </data>
+  <data name="staplerLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 30</value>
+  </data>
+  <data name="staplerLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="staplerLabel.Text" xml:space="preserve">
+    <value>Stapler</value>
+  </data>
+  <data name="&gt;&gt;staplerLabel.Name" xml:space="preserve">
+    <value>staplerLabel</value>
+  </data>
+  <data name="&gt;&gt;staplerLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;staplerLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;staplerLabel.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="caseLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="caseLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 12pt</value>
+  </data>
+  <data name="caseLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 252</value>
+  </data>
+  <data name="caseLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 30</value>
+  </data>
+  <data name="caseLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="caseLabel.Text" xml:space="preserve">
+    <value>Pencil Case</value>
+  </data>
+  <data name="&gt;&gt;caseLabel.Name" xml:space="preserve">
+    <value>caseLabel</value>
+  </data>
+  <data name="&gt;&gt;caseLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;caseLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;caseLabel.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="pencilInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 131</value>
+  </data>
+  <data name="pencilInput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 26</value>
+  </data>
+  <data name="pencilInput.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pencilInput.Name" xml:space="preserve">
+    <value>pencilInput</value>
+  </data>
+  <data name="&gt;&gt;pencilInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pencilInput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pencilInput.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="caseInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 256</value>
+  </data>
+  <data name="caseInput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 26</value>
+  </data>
+  <data name="caseInput.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;caseInput.Name" xml:space="preserve">
+    <value>caseInput</value>
+  </data>
+  <data name="&gt;&gt;caseInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;caseInput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;caseInput.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="staplerInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 192</value>
+  </data>
+  <data name="staplerInput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 26</value>
+  </data>
+  <data name="staplerInput.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;staplerInput.Name" xml:space="preserve">
+    <value>staplerInput</value>
+  </data>
+  <data name="&gt;&gt;staplerInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;staplerInput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;staplerInput.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="totalButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 310</value>
+  </data>
+  <data name="totalButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>151, 41</value>
+  </data>
+  <data name="totalButton.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="totalButton.Text" xml:space="preserve">
+    <value>Calculate &amp;Total</value>
+  </data>
+  <data name="&gt;&gt;totalButton.Name" xml:space="preserve">
+    <value>totalButton</value>
+  </data>
+  <data name="&gt;&gt;totalButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;totalButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;totalButton.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>45, 472</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="subtotalLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="subtotalLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 372</value>
+  </data>
+  <data name="subtotalLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 20</value>
+  </data>
+  <data name="subtotalLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="subtotalLabel.Text" xml:space="preserve">
+    <value>Sub Total</value>
+  </data>
+  <data name="&gt;&gt;subtotalLabel.Name" xml:space="preserve">
+    <value>subtotalLabel</value>
+  </data>
+  <data name="&gt;&gt;subtotalLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;subtotalLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;subtotalLabel.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="taxLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="taxLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 431</value>
+  </data>
+  <data name="taxLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 20</value>
+  </data>
+  <data name="taxLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="taxLabel.Text" xml:space="preserve">
+    <value>Tax</value>
+  </data>
+  <data name="&gt;&gt;taxLabel.Name" xml:space="preserve">
+    <value>taxLabel</value>
+  </data>
+  <data name="&gt;&gt;taxLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;taxLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;taxLabel.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="totalLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="totalLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 484</value>
+  </data>
+  <data name="totalLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 20</value>
+  </data>
+  <data name="totalLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="totalLabel.Text" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="&gt;&gt;totalLabel.Name" xml:space="preserve">
+    <value>totalLabel</value>
+  </data>
+  <data name="&gt;&gt;totalLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;totalLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;totalLabel.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="tenderedLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="tenderedLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 545</value>
+  </data>
+  <data name="tenderedLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 20</value>
+  </data>
+  <data name="tenderedLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="tenderedLabel.Text" xml:space="preserve">
+    <value>Tendered</value>
+  </data>
+  <data name="&gt;&gt;tenderedLabel.Name" xml:space="preserve">
+    <value>tenderedLabel</value>
+  </data>
+  <data name="&gt;&gt;tenderedLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tenderedLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tenderedLabel.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="taxOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>352, 431</value>
+  </data>
+  <data name="taxOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 33</value>
+  </data>
+  <data name="taxOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;taxOutput.Name" xml:space="preserve">
+    <value>taxOutput</value>
+  </data>
+  <data name="&gt;&gt;taxOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;taxOutput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;taxOutput.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="totalOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>352, 485</value>
+  </data>
+  <data name="totalOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 33</value>
+  </data>
+  <data name="totalOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;totalOutput.Name" xml:space="preserve">
+    <value>totalOutput</value>
+  </data>
+  <data name="&gt;&gt;totalOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;totalOutput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;totalOutput.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="tenderedInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>356, 539</value>
+  </data>
+  <data name="tenderedInput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 26</value>
+  </data>
+  <data name="tenderedInput.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;tenderedInput.Name" xml:space="preserve">
+    <value>tenderedInput</value>
+  </data>
+  <data name="&gt;&gt;tenderedInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tenderedInput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tenderedInput.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="changeButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>76, 600</value>
+  </data>
+  <data name="changeButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>166, 47</value>
+  </data>
+  <data name="changeButton.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="changeButton.Text" xml:space="preserve">
+    <value>Calculate &amp;Change </value>
+  </data>
+  <data name="&gt;&gt;changeButton.Name" xml:space="preserve">
+    <value>changeButton</value>
+  </data>
+  <data name="&gt;&gt;changeButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;changeButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;changeButton.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="subtotalOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>352, 372</value>
+  </data>
+  <data name="subtotalOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 33</value>
+  </data>
+  <data name="subtotalOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;subtotalOutput.Name" xml:space="preserve">
+    <value>subtotalOutput</value>
+  </data>
+  <data name="&gt;&gt;subtotalOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;subtotalOutput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;subtotalOutput.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="changeLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="changeLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 678</value>
+  </data>
+  <data name="changeLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 20</value>
+  </data>
+  <data name="changeLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="changeLabel.Text" xml:space="preserve">
+    <value>Change</value>
+  </data>
+  <data name="&gt;&gt;changeLabel.Name" xml:space="preserve">
+    <value>changeLabel</value>
+  </data>
+  <data name="&gt;&gt;changeLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;changeLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;changeLabel.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="changeOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>352, 678</value>
+  </data>
+  <data name="changeOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 33</value>
+  </data>
+  <data name="changeOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;changeOutput.Name" xml:space="preserve">
+    <value>changeOutput</value>
+  </data>
+  <data name="&gt;&gt;changeOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;changeOutput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;changeOutput.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="printButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>172, 742</value>
+  </data>
+  <data name="printButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 39</value>
+  </data>
+  <data name="printButton.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="printButton.Text" xml:space="preserve">
+    <value>&amp;Print Receipt</value>
+  </data>
+  <data name="&gt;&gt;printButton.Name" xml:space="preserve">
+    <value>printButton</value>
+  </data>
+  <data name="&gt;&gt;printButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;printButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;printButton.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="receiptOutput.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 10pt</value>
+  </data>
+  <data name="receiptOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>493, 87</value>
+  </data>
+  <data name="receiptOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>396, 479</value>
+  </data>
+  <data name="receiptOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;receiptOutput.Name" xml:space="preserve">
+    <value>receiptOutput</value>
+  </data>
+  <data name="&gt;&gt;receiptOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;receiptOutput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;receiptOutput.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="newButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="newButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>573, 618</value>
+  </data>
+  <data name="newButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>232, 143</value>
+  </data>
+  <data name="newButton.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="newButton.Text" xml:space="preserve">
+    <value>&amp;New Order</value>
+  </data>
+  <data name="&gt;&gt;newButton.Name" xml:space="preserve">
+    <value>newButton</value>
+  </data>
+  <data name="&gt;&gt;newButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;newButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;newButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="totalErrorOutput.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 8pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="totalErrorOutput.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="totalErrorOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>249, 310</value>
+  </data>
+  <data name="totalErrorOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 41</value>
+  </data>
+  <data name="totalErrorOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;totalErrorOutput.Name" xml:space="preserve">
+    <value>totalErrorOutput</value>
+  </data>
+  <data name="&gt;&gt;totalErrorOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;totalErrorOutput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;totalErrorOutput.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="changeAmountOutput.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 8pt</value>
+  </data>
+  <data name="changeAmountOutput.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="changeAmountOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 600</value>
+  </data>
+  <data name="changeAmountOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 60</value>
+  </data>
+  <data name="changeAmountOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;changeAmountOutput.Name" xml:space="preserve">
+    <value>changeAmountOutput</value>
+  </data>
+  <data name="&gt;&gt;changeAmountOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;changeAmountOutput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;changeAmountOutput.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="changeLetterOutput.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 8pt</value>
+  </data>
+  <data name="changeLetterOutput.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="changeLetterOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>277, 600</value>
+  </data>
+  <data name="changeLetterOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 60</value>
+  </data>
+  <data name="changeLetterOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;changeLetterOutput.Name" xml:space="preserve">
+    <value>changeLetterOutput</value>
+  </data>
+  <data name="&gt;&gt;changeLetterOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;changeLetterOutput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;changeLetterOutput.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>9, 20</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>484, 363</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Cash Register</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
